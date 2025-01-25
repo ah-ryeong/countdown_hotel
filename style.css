@@ -23,8 +23,6 @@ body {
 
 .wrap {
   /* position: absolute; */
-  flex-wrap: nowrap; /* 줄 바꿈 방지 */
-  width: 100%;
   bottom: 0;
   top: 0;
   left: 0;
